@@ -1,8 +1,9 @@
 # Neural Machine Translation
-Facial Emotion Recognition is the working of a machine to train itself or recognizing the facial expression from different sources of images of people.
+Neural Machine Translation (NMT) is the task of using artificial neural network models for translation from one language to the other.( French to English)
 ## Dataset  
-Facial Expression Dataset (https://github.com/muxspace/facial_expressions) of images for classifying facial expressions.
-### Algorithm used : Deep Learning : Convolutional Neural Networks
+French To English (http://www.manythings.org/anki/)
+### Algorithm used :
+Deep Learning - Recurrent Neural Network and LSTM( Long Short Term Memory)
 ## Technology used : 
-Python,Pandas,Sklearn,Keras
+Python,Sklearn,Keras
 
